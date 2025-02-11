@@ -5,9 +5,9 @@ To showcase my Excel skills highlighting my ability to efficiently manage, analy
 
 ## Dataset
 
-<a href="https://github.com/JJAnalytics/MS-Excel-Task-Book/blob/main/Task%201.xlsx">Task 1 dataset.</a>.
+- <a href="https://github.com/JJAnalytics/MS-Excel-Task-Book/blob/main/Task%201.xlsx">Task 1 dataset.</a>.
 
-<a href="https://github.com/JJAnalytics/MS-Excel-Task-Book/blob/main/Task%202.xlsx">Task 2 dataset.</a>.
+- <a href="https://github.com/JJAnalytics/MS-Excel-Task-Book/blob/main/Task%202.xlsx">Task 2 dataset.</a>.
 
 ## Tasks Carried Out
 
