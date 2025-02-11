@@ -21,6 +21,10 @@ To showcase my Excel skills highlighting my ability to efficiently manage, analy
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/169c5f88-0b0a-4101-8190-7ce790ed74b8)
+
+
+
 
 ## Summary
 
