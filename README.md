@@ -23,6 +23,7 @@ To showcase my Excel skills highlighting my ability to efficiently manage, analy
 
 ![image](https://github.com/user-attachments/assets/169c5f88-0b0a-4101-8190-7ce790ed74b8)
 
+![image](https://github.com/user-attachments/assets/256a77a9-37de-4d76-b18f-09f0ae34d433)
 
 
 
