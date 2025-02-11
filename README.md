@@ -1,2 +1,7 @@
 # MS-Excel-Task-Book
-To showcase my Excel skills highlighting my ability to efficiently manage, analyse, visualise data &amp; utilise advanced functions &amp; formulas.
+
+## Purpose
+To showcase my Excel skills highlighting my ability to efficiently manage, analyse, visualize data & utilise advanced functions & formulas.
+
+## Dataset
+
